@@ -1,0 +1,20 @@
+<?php
+return [
+    'spreadsheet' => 'جداول الاكسل',
+    'spreadsheet_module' => 'وحدة جدول البيانات',
+    'sheets' => 'الأرواق والبيانات',
+    'my_spreadsheets' => 'جداول البيانات الخاصة بي',
+    'create_spreadsheet' => 'أنشئ جدول بيانات',
+    'no_spreadsheet_found' => 'لم يتم العثور على جدول بيانات!',
+    'view_spreadsheet' => 'عرض جدول البيانات',
+    'share' => 'مشاركة',
+    'share_excel' => 'مشاركة جدول البيانات',
+    'todos' => 'تودوس',
+    'access_spreadsheet' => 'الوصول إلى جدول البيانات',
+    'move_to_another_folder' => 'نقل لمجلد آخر',
+    'spreadsheet_shared_notif_text' => ':shared_by شارك جدول بيانات - :name',
+    'shared_by' => 'تم مشاركته بواسطة :name',
+    'created_by' => 'تم إنشاؤه بواسطة :name',
+    'add_folder' => 'إضافة مجلد',
+    'untitled' => 'بدون عنوان',
+];
